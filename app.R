@@ -1,3 +1,8 @@
+# https://community.rstudio.com/t/shiny-using-multiple-exclusive-reactivevalues-for-filtering-dataset/40957/6
+# shiny using multiple exclusive reactive values for filtering dataset
+# mouse click identity getting objects 
+# by jlacko Consultant/Trainer for Hire, 2019-09-29
+# 
 library(dplyr)
 library(shiny)
 library(leaflet)
